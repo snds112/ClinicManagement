@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8WucuKIH1NSxLHFlGMXe27EyfXtiwaC998EaI9C92QUtKNqNDnpY4N0tjBw4cW2PzelXQTsUGKZVx4JVzjFMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gasou\\Desktop\\SEM3\\sfsd\\ClinicManagement\\ClinicManagement\\ClinicManagement.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gasou\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.29\\microsoft.windows.sdk.net.ref.10.0.22621.29.nupkg.sha512"
+  ],
+  "logs": []
+}
